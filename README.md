@@ -1,5 +1,3 @@
-Aqui está o README para o seu projeto:  
-
 ---
 
 ## 🚗 Sistema de Cadastro de Carros com Serialização em Java
