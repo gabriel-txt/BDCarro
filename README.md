@@ -1,5 +1,3 @@
----
-
 ## 🚗 Sistema de Cadastro de Carros com Serialização em Java
 
 Este é um projeto simples em Java que utiliza **serialização de objetos** para armazenar informações sobre carros em um arquivo. O programa permite que o usuário insira dados de um carro (marca, modelo e cor) e os salve em um "mini banco de dados" (arquivo escolhido pelo usuário).  
@@ -45,5 +43,3 @@ Carro 1: [Marca: Honda] [Modelo: Civic] [Cor: Branco]
 
 ### 📜 Licença  
 Este projeto é de código aberto e pode ser utilizado para estudos e melhorias.  
-
----
